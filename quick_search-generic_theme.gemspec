@@ -18,11 +18,8 @@ Gem::Specification.new do |s|
   s.test_files = Dir["test/**/*"]
 
   s.add_dependency 'quick_search-core', '~> 0.1'
-  s.add_dependency 'compass', '~> 1.0'
-  s.add_dependency 'compass-rails', '~> 3.0'
-  s.add_dependency 'foundation-rails', '5.4.5'
-  s.add_dependency 'sass', '~> 3.2'
-  s.add_dependency 'font-awesome-sass', '~> 4.4'
-  s.add_dependency 'sass-rails', '~> 5.0'
+  s.add_dependency 'bootstrap', '~> 4.1.3'
+  s.add_dependency 'font-awesome-rails'
+  s.add_dependency 'jquery-rails'
 
 end
