@@ -13,3 +13,6 @@ gemspec
 # To use a debugger
 # gem 'byebug', group: [:development, :test]
 
+gem 'bootstrap', '~> 4.1.3'
+gem 'font-awesome-rails'
+gem 'jquery-rails'
